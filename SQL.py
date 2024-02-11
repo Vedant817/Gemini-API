@@ -83,4 +83,4 @@ if submit:
     st.subheader("The Response is: ")
     for row in response:
         print(row)
-        st.header
+        st.header(row)
